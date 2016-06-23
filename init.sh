@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#add comment
 #clean temp
 echo '清理和重建缓存文件'
 if [ -d "temp" ]; then
